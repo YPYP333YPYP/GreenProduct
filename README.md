@@ -9,7 +9,7 @@ IDE IntelliJ IDEA 2022, HeidiSQL
 API : REST api
 
 # 설명
-spring boot의 JpaRepository를 이용한 entity CRUD API
+spring boot의 JpaRepository를 이용한 entity CRUD API / 
 Client - Controller - Service - DAO(Repository) - DB 순의 계층 프로그래밍 진행
 
 # <API 명세서>
