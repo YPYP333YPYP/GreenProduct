@@ -1,15 +1,15 @@
 # GreenProduct
 
 < 재고 관리 프로그램 >
-언어 : Java(JDK 18)
-서버 : Apache Tomcat 8.0
-프레임 워크 : Spring boot
-DB : MariaDB 10.6
-IDE IntelliJ IDEA 2022, HeidiSQL
-API : REST api
+언어 : Java(JDK 18)<br/>
+서버 : Apache Tomcat 8.0<br/>
+프레임 워크 : Spring boot<br/>
+DB : MariaDB 10.6<br/>
+IDE IntelliJ IDEA 2022, HeidiSQL<br/>
+API : REST api<br/>
 
 # 설명
-spring boot의 JpaRepository를 이용한 entity CRUD API / 
+spring boot의 JpaRepository를 이용한 entity CRUD API <br/>
 Client - Controller - Service - DAO(Repository) - DB 순의 계층 프로그래밍 진행
 
 # <API 명세서>
